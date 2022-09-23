@@ -9,9 +9,9 @@ Some facts about me:
 - And I'm a dog person!! 🥰🐶🦮🐕‍🦺🐩
 ---
 ### Technologies I'm currently using on the daily basis:
-- 🐦 JavaScript and TypeScript
+- 🟡 JavaScript and TypeScript
 - ⚛️ ReactJS (JavaScript Front-End library)
-- 🎨 Tailwind and Styled Component (CSS library & framework)
-- 📱 Flutter
+- 🎨 TailwindCSS and Styled Component (CSS library & framework)
+- 🐦 Flutter
 - 🤖 Kotlin
 - 🐘 Basic PHP
