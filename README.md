@@ -10,10 +10,9 @@ Some facts about me:
 ---
 ### Technologies I'm currently using on the daily basis:
 - 🟡 JavaScript and TypeScript
-- ⚛️ ReactJS (JavaScript Front-End library)
-- 🎨 TailwindCSS and Styled Component (CSS library & framework)
+- ⚛️ ReactJS and React Native
+- 🎨 TailwindCSS and Styled Component
 - 🐦 Flutter
 - 🤖 Kotlin
-- 🐘 Basic PHP
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamalielara&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
