@@ -1,4 +1,4 @@
-# Hello World, my name is Ara Gamaliel Boanerges, but you can call me gama😁
+# Hello World, I'm Ara Gamaliel Boanerges (gama)😁
 
 ### I'm a software engineer who focuses on front-end web development
 Some facts about me:
