@@ -15,4 +15,4 @@ Some facts about me:
 - 🐦 Flutter
 - 🤖 Kotlin
 
-![My Top Langs](https://github-readme-stats.vercel.app/api?username=gamalielara&hide=contribs,prs)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamalielara)](https://github.com/anuraghazra/github-readme-stats)
